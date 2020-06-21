@@ -52,7 +52,7 @@ The challenge ask for additional functionality to be added to the code in order 
 - Print the results to the command line.
 *See 5b *
 
-32 ## Challenge Summary
+## Challenge Summary
 An analysis of the election shows:
 Voters from three counties participated in this particular election. The three counties are:
 - Jefferson
