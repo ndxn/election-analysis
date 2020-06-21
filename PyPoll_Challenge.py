@@ -2,7 +2,7 @@
 import csv
 import os
 # Assign a variable to load a file from a path.
-file_to_load = os.path.join("/Users/Neal/DataAustin2020/Challenges/election-analysis/Resources/election_results.csv")
+file_to_load = os.path.join('/Users/Neal/DataAustin2020/Challenges/election-analysis/Resources/election_results.csv')
 # Assign a variable to save the file to a path.
 file_to_save = os.path.join("/Users/Neal/DataAustin2020/Challenges/election-analysis/Analysis/election_analysis.txt")
 # Initialize a total vote counter.
@@ -19,6 +19,7 @@ with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
     # Read the header row.
     headers = next(file_reader)
+    # print(headers)
     # Print each row in the CSV file.
     for row in file_reader:
         # Add to the total vote count.
