@@ -53,4 +53,18 @@ The challenge ask for additional functionality to be added to the code in order 
 *See 5b *
 
 32 ## Challenge Summary
-**An analysis of the election shows:
+An analysis of the election shows:
+Voters from three counties participated in this particular election. The three counties are:
+- Jefferson
+- Denver
+- Arapahoe
+
+The turnout by county is as follows:
+Jefferson county with 38,855 votes or 10.5% of the total.
+Denver county with 306,055 votes, 82.8% of the total.
+Arapahoe county with 24,801, 6.7% of the total.
+
+The county with the largest number of votes cast was:
+- Denver county with 306,055 votes, 82.8% of the total.
+
+
